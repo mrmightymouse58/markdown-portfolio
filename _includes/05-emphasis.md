@@ -1,0 +1,3 @@
+__Trusting__
+__Kind__
+__Affable__
