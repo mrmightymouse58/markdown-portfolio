@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of VA Website](C:\Users\RC Administrator\Desktop\536_t6_p4.jpg)
