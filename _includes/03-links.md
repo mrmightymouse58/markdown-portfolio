@@ -1,1 +1,1 @@
-GitHub](https://github.com/mrmightymouse58)
+[GitHub](https://github.com/mrmightymouse58)
